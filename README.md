@@ -1,3 +1,7 @@
+# Reference
+My original implementation of Super Selfish, which gained a lot of attention over here: https://github.com/MECLabTUDA/Super_Selfish
+Therefore, issues and questions have been answered there.
+
 # Super Selfish
 A unified Pytorch framework for image-based self-supervised learning. The technical report can be found at https://arxiv.org/abs/2012.02706.
 
