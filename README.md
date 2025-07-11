@@ -1,5 +1,5 @@
 # Reference
-My original implementation of Super Selfish, which gained a lot of attention over here: https://github.com/MECLabTUDA/Super_Selfish
+My original implementation of Super Selfish, which gained a lot of attention over here: https://github.com/MECLabTUDA/Super_Selfish \n
 Therefore, issues and questions have been answered there.
 
 # Super Selfish
